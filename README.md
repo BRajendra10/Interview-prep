@@ -1,2 +1,7 @@
 # Interview-prep
-This repo is for gathered information about deffrent technoliges.
+
+This repository contains interview preparation notes.
+
+## Topics
+
+- 📄 [HTML Interview Preparation](./html.md)
